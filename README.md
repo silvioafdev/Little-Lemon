@@ -1,2 +1,6 @@
 # Little-Lemon
 "The Full Stack by Meta" Coursera course project.
+
+PT_br: Neste projeto proposto pela curso, realizei toda criação de um website para realizar reservas de um restaurante fictício chamado "Little Lemon", foi fornecido a ideia de design, imagens, logo, e o uso de Python como linguagem no Framework Django. Trabalhei com banco de dados SQL, onde no curso aprendemos a lidar com MySQL, porém para execução rápida do projeto nos foi fornecido um banco de dados SQLite. Após realizar a construção do back-end, fazer o front-end no design padrão, conectei tudo com o banco de dados, o projeto estava funcionando perfeitamente e então me aprovaram me dando o certifcado.
+
+EN_us: In this proposed project, I created a booking website for a fake restaurant called "Little Lemon", they came with design idea, images, logo, and made me use Python as programming language and Django Framework. I worked with a SQL database, during the course I've learned to lead with MySQL, but for a fast execution of the project, they supplied me with a SQLite database. After building the back-end, making the front-end with the standard design, connected everything with the database, the project was working perfectly and they approved me with the certificate.
